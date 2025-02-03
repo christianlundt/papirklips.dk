@@ -1,0 +1,2 @@
+# Brugerdefineret fejlside for 404- fejl
+ErrorDocument 404 /index.html
